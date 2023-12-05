@@ -8,7 +8,7 @@ Realizar interfaz de usuario para analizar informacion recolectada via API a sit
 
 Existe una lista interminable de sitios con informacion disponible, seleccionamos las siguientes opciones para su evaluacion:
 
-(Recuerde "boton derecho - Abrir en una ventna nueva", para no perder de vista este documento)
+(Recuerde "boton derecho - Abrir en una ventna/pestaña nueva", para no perder de vista este documento)
 
 [NASA](https://api.nasa.gov/#browseAPI) | [COVID](https://covidtracking.com/data/api/version-2) | [cOIN_aPI](https://docs.coinapi.io) | [cOINgEKO](https://www.coingecko.com/api/documentation)
 
