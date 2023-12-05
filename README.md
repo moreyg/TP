@@ -1,4 +1,4 @@
-# **TRABAJO FINAL Especializacion Python**
+# **Trabajo final : Especializacion Python ITBA**
 
 ## **Etapa 1:**
 
