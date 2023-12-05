@@ -1,6 +1,6 @@
-#**TRABAJO FINAL**
+# **TRABAJO FINAL**
 
-##**Etapa 1:**
+## **Etapa 1:**
 
 Esta etapa tendra el objerivo de introduccion a Girhub como repositorio de proyecto utilizando SO Linux,y MarkDown como lenguaje de documentacion de las etapas del trabajo a entregar.
 
