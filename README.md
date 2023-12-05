@@ -10,10 +10,8 @@ Existe una lista interminable de sitios con informacion disponible, seleccionamo
 
 OpenWeatherMap API:
 
-Access weather data for various locations.
-OpenWeatherMap API
-
-COVID-19 Data:
+- Access weather data for various locations. OpenWeatherMap API
+- COVID-19 Data:
 
 Retrieve global or country-specific COVID-19 statistics.
 COVID-19 Data API
