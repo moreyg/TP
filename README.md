@@ -12,7 +12,8 @@ OpenWeatherMap API:
 
 - [OpenWeatherMap API](https://openweathermap.org/api/one-call-3)
 - [COVID-19 Data](https://covidtracking.com/data/api/version-2)
-- [![NASA API ](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg)](https://api.nasa.gov/#browseAPI){:target="_blank"}
+- <a href="https://api.nasa.gov/#browseAPI" target="_blank"><img src="[image-url.jpg](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg)" alt="NASA API"></a>
+
 
 Access data related to space, astronomy, and earth science.
 NASA API
