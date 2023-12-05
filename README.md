@@ -11,7 +11,7 @@ Se trabajara con requirementes.txt para notificar dependencias al utilizar el re
 Se implementara una interfaz grafica del modo "ventana" para facilitar al usuario su utilizacion.
 
 En esta primera etapa tiene los objetivos:
-
+0- Incursionar el el lenguaje MarkDown de esta nota (Edit para ver como formatear..)
 1- Recolectar diferente informacion mediante API disponibles ejecutados en scripts simples y fijos para verificar el correcto entendimiento de la documentacion de la API
 2- Crear script simple de lanzamiento de interfaz de usuario graficando par k,v simple.
 3- Crear helper que contenga los recursos necesarios a utilizar en el sistema.
