@@ -1,4 +1,5 @@
 #TRABAJO FINAL
+
 #Etapa 1:
 Esta etapa tendra el objerivo de introduccion a Girhub como repositorio de proyecto utilizando SO Linux, y haciendo uso de la posibilidad de filtrar informacion via .gitignore para pasar prolijamente la informacion al presente repositorio pubico.
 Trabajaremos con el lenguaje Python 3.10 con la funcionalidad nativa de virtualizacion, esto no sera reflejado en el repositorio. El sistema estara compuesto por scripts de Pyton para poder ser ejecutado via linea de comando, por ejemplo "run_linux" o "run_Windows", o bien simplemente "run".
