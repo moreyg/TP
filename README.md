@@ -12,9 +12,7 @@ Existe una lista interminable de sitios con informacion disponible, seleccionamo
 
   [nASA](https://api.nasa.gov/#browseAPI) | [cOVID](https://covidtracking.com/data/api/version-2) | [cOIN_aPI](https://docs.coinapi.io) | [cOINgCEKO](https://www.coingecko.com/api/documentation)
 
-<p align="center">[nASA](https://api.nasa.gov/#browseAPI)</p>
-
-Trabajaremos con CoinApi y CoinGecko referentes a mercado financiero
+Trabajaremos con CoinApi y CoinGecko por ser muy claras en su documentacion
 
 ## **Etapa 1:**
 
