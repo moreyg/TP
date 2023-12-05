@@ -18,6 +18,19 @@ OpenWeatherMap API:
 
 [Link 1](https://www.example.com) [Link 2](https://www.example2.com) [Link 3](https://www.example3.com)
 
+<p float="left">
+  <a href="https://api.nasa.gov/#browseAPI">
+    <img src="readme/nasa-logo.svg" alt="Image 1" width="100"/>
+  </a>
+  <a href="https://covidtracking.com/data/api/version-2">
+    <img src="imagenes_readme/covid.svg" alt="Image 2" width="100"/>
+  </a>
+  <a href="https://www.example.com3">
+    <img src="link_to_image3" alt="Image 3" width="100"/>
+  </a>
+</p>
+
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Access data related to space, astronomy, and earth science.
