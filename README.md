@@ -12,11 +12,7 @@ OpenWeatherMap API:
 
 - [OpenWeatherMap API](https://openweathermap.org/api/one-call-3)
 - [COVID-19 Data](https://covidtracking.com/data/api/version-2)
-
-Retrieve global or country-specific COVID-19 statistics.
-COVID-19 Data API
-
-NASA API:
+- [NASA API ](https://api.nasa.gov/#browseAPI)
 
 Access data related to space, astronomy, and earth science.
 NASA API
