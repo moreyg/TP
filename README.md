@@ -16,6 +16,9 @@ OpenWeatherMap API:
 
 [![NASA API](imagenes_readme/nasa-logo.svg)](https://api.nasa.gov/#browseAPI) [![COVID API](imagenes_readme/covid.svg)](https://covidtracking.com/data/api/version-2)
 
+[Link 1](https://www.example.com) [Link 2](https://www.example2.com) [Link 3](https://www.example3.com)
+
+
 
 
 
