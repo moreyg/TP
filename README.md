@@ -9,9 +9,9 @@ Realizar interfaz de usuario para analizar informacion recolectada via API a sit
 Existe una lista interminable de sitios con informacion disponible, seleccionamos las siguientes opciones para su evaluacion:
 
 (Recuerde "boton derecho - Abrir en una ventna/pestaña nueva", para no perder de vista este documento)
-
-[nASA](https://api.nasa.gov/#browseAPI) | [cOVID](https://covidtracking.com/data/api/version-2) | [cOIN_aPI](https://docs.coinapi.io) | [cOINgCEKO](https://www.coingecko.com/api/documentation)
-
+<p align="center">
+  [nASA](https://api.nasa.gov/#browseAPI) | [cOVID](https://covidtracking.com/data/api/version-2) | [cOIN_aPI](https://docs.coinapi.io) | [cOINgCEKO](https://www.coingecko.com/api/documentation)
+</p>
 Trabajaremos con CoinApi y CoinGecko referentes a mercado financiero
 
 ## **Etapa 1:**
