@@ -10,7 +10,7 @@ Existe una lista interminable de sitios con informacion disponible, seleccionamo
 
 (Recuerde "boton derecho - Abrir en una ventna nueva", para no perder de vista este documento)
 
-[NASA](https://api.nasa.gov/#browseAPI) | [COVID](https://covidtracking.com/data/api/version-2) | [cOIN_aPI](https://docs.coinapi.io/) | [cOINgEKO](https://www.coingecko.com/api/documentation)
+[NASA](https://api.nasa.gov/#browseAPI) | [COVID](https://covidtracking.com/data/api/version-2) | [cOIN_aPI](https://docs.coinapi.io) | [cOINgEKO](https://www.coingecko.com/api/documentation)
 
 
 
