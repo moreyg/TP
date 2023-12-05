@@ -10,25 +10,8 @@ Existe una lista interminable de sitios con informacion disponible, seleccionamo
 
 (Recuerde "boton derecho - Abrir en una ventna nueva", para no perder de vista este documento)
 
-OpenWeatherMap API:
+[NASA](https://api.nasa.gov/#browseAPI) + [COVID](https://covidtracking.com/data/api/version-2) [Link 3](https://www.example3.com)
 
-
-[![NASA](imagenes_readme/nasa-logo.svg)](https://api.nasa.gov/#browseAPI) [![COVID](imagenes_readme/covid.svg)](https://covidtracking.com/data/api/version-2)
-
-
-[Link 1](https://www.example.com) [Link 2](https://www.example2.com) [Link 3](https://www.example3.com)
-
-<p float="left">
-  <a href="https://api.nasa.gov/#browseAPI">
-    <img src="readme/nasa-logo.svg" alt="Image 1" width="100"/>
-  </a>
-  <a href="https://covidtracking.com/data/api/version-2">
-    <img src="imagenes_readme/covid.svg" alt="Image 2" width="100"/>
-  </a>
-  <a href="https://www.example.com3">
-    <img src="link_to_image3" alt="Image 3" width="100"/>
-  </a>
-</p>
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
