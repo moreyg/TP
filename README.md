@@ -17,5 +17,5 @@ En esta primera etapa tiene los objetivos:
 3- Crear helper que contenga los recursos necesarios a utilizar en el sistema.
 4- crear lista de dependencias via requirements.txt
 
-Etapa 2:
+## **Etapa 2:**
 Esta etapa se concentra en analizar al menos dos tipos de bases de datos, MongoDb y veremos como seguimos.....
