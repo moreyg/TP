@@ -12,49 +12,6 @@ Existe una lista interminable de sitios con informacion disponible, seleccionamo
 
 [NASA](https://api.nasa.gov/#browseAPI) | [COVID](https://covidtracking.com/data/api/version-2) | [cOIN_aPI](https://docs.coinapi.io) | [cOINgEKO](https://www.coingecko.com/api/documentation)
 
-
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-Access data related to space, astronomy, and earth science.
-NASA API
-
-REST Countries:
-
-Retrieve information about countries, including population, languages, and more.
-REST Countries API
-
-CoinGecko API:
-
-Get cryptocurrency data, including prices, market cap, and more.
-CoinGecko API
-
-JokeAPI:
-
-Fetch random jokes or programming-related jokes.
-JokeAPI
-
-PokéAPI:
-
-Access Pokémon data, including details about different Pokémon species.
-PokéAPI
-
-Rick and Morty API:
-
-Retrieve information about the Rick and Morty TV show.
-Rick and Morty API
-
-News API:
-
-Get news articles from various sources.
-News API
-
-Open Trivia Database:
-
-Fetch trivia questions for different categories.
-Open Trivia Database
-
-
 ## **Etapa 1:**
 
 Esta etapa tendra el objerivo de introduccion a Girhub como repositorio de proyecto utilizando SO Linux,y MarkDown como lenguaje de documentacion de las etapas del trabajo a entregar. Este documento no intenta ser una guia de estudio, ni exlicativa, sobre temas mencionados, este documento refleja etapas seguidas por el autor en el desarrollo de su conocimiento y recomienda a otros dividir los temas de esta manera para seguir un plan para adquirir conocimiento, e interpretacion, de los temas tratados.
