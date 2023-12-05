@@ -1,8 +1,67 @@
 # **Trabajo final : Especializacion Python ITBA**
 
+## **Objetivo**
+
+Realizar interfaz de usuario para analizar informacion recolectada via API a sitios que almacenan y comparten datos actuales y/o historicos. La informacion recolectada debe ser almacenada en base de datos. El usuario solicitara la informacion requerida y sus parametros. La informacion se mostrara al usuario via, ventana de informacion, una lista de datos o un grafico para su analisis, segun se solicite o corresponda.
+
+## **Recursos disponibles de fuentes de Datos**
+
+Existe una lista interminable de sitios con informacion disponible, seleccionamos las siguientes opciones para su evaluacion:
+
+OpenWeatherMap API:
+
+Access weather data for various locations.
+OpenWeatherMap API
+
+COVID-19 Data:
+
+Retrieve global or country-specific COVID-19 statistics.
+COVID-19 Data API
+
+NASA API:
+
+Access data related to space, astronomy, and earth science.
+NASA API
+
+REST Countries:
+
+Retrieve information about countries, including population, languages, and more.
+REST Countries API
+
+CoinGecko API:
+
+Get cryptocurrency data, including prices, market cap, and more.
+CoinGecko API
+
+JokeAPI:
+
+Fetch random jokes or programming-related jokes.
+JokeAPI
+
+PokéAPI:
+
+Access Pokémon data, including details about different Pokémon species.
+PokéAPI
+
+Rick and Morty API:
+
+Retrieve information about the Rick and Morty TV show.
+Rick and Morty API
+
+News API:
+
+Get news articles from various sources.
+News API
+
+Open Trivia Database:
+
+Fetch trivia questions for different categories.
+Open Trivia Database
+
+
 ## **Etapa 1:**
 
-Esta etapa tendra el objerivo de introduccion a Girhub como repositorio de proyecto utilizando SO Linux,y MarkDown como lenguaje de documentacion de las etapas del trabajo a entregar.
+Esta etapa tendra el objerivo de introduccion a Girhub como repositorio de proyecto utilizando SO Linux,y MarkDown como lenguaje de documentacion de las etapas del trabajo a entregar. Este documento no intenta ser una guia de estudio, ni exlicativa, sobre temas mencionados, este documento refleja etapas seguidas por el autor en el desarrollo de su conocimiento y recomienda a otros dividir los temas de esta manera para seguir un plan para adquirir conocimiento, e interpretacion, de los temas tratados.
 
 Trabajaremos con el lenguaje Python 3.10 con la funcionalidad nativa de virtualizacion localmente, esto no sera reflejado en el repositorio. El sistema estara compuesto por scripts de Pyton para poder ser ejecutado via linea de comando, por ejemplo "run_linux_tp" o "run_Windows_tp", o bien simplemente "run_tp".
 
