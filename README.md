@@ -4,7 +4,7 @@
 
 Realizar interfaz de usuario para analizar informacion recolectada via API a sitios que almacenan y comparten datos actuales y/o historicos. La informacion recolectada debe ser almacenada en base de datos. El usuario solicitara la informacion requerida y sus parametros. La informacion se mostrara al usuario via, ventana de informacion, una lista de datos o un grafico para su analisis, segun se solicite o corresponda.
 
-## **Recursos disponibles de fuentes de Datos**
+## **Recursos analizados de fuentes de Datos**
 
 Existe una lista interminable de sitios con informacion disponible, seleccionamos las siguientes opciones para su evaluacion:
 
