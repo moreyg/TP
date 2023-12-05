@@ -13,9 +13,9 @@ Existe una lista interminable de sitios con informacion disponible, seleccionamo
 OpenWeatherMap API:
 
 - [OpenWeatherMap API](https://openweathermap.org/api/one-call-3)
-- [COVID-19 Data](https://covidtracking.com/data/api/version-2)
 
 [![NASA API](imagenes_readme/nasa-logo.svg)](https://api.nasa.gov/#browseAPI)
+[![COVID API](imagenes_readme/covid.svg)](https://covidtracking.com/data/api/version-2)
 
 
 
