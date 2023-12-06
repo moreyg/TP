@@ -1,6 +1,7 @@
 # utils.py
 import sys
 import logging
+import sqlite3
 from tkinter import Tk, Label, Button, Toplevel
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
