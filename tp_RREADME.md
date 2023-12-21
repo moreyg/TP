@@ -121,3 +121,9 @@ In a PyQt GUI:
 You can display the data in various GUI elements. For instance, you could use a QTableWidget to display a list of dictionaries (each dictionary representing a row and its key-value pairs representing column data).
 
 
+<<<<<<< HEAD
+=======
+Esta etapa se concentra en analizar al menos dos tipos de bases de datos, SQLite, integrada a Python utilizado y una dase de datos externa FireBase.
+
+sopn dos tipos de DB totalmente diferentes, SQLite es relacional y estructurada, un modelo reducido de base SQL, pero perfectamente funcional para iniciar un proyecto y luego implementar ota db SQL, mientras que Firebase es una base de datos no relacional y no SQL, es una DB basada en jerarquias, con formato JSON. RealTime DB y FireStore DB son dos productos ofresidos online. Escapa a este proyecto ahondar en las direrencias de estos productos especificos de FireBase.
+>>>>>>> f89a51bf069ba0b0c96fe4b3560dab965772d505
