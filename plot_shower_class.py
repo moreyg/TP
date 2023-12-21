@@ -1,6 +1,6 @@
 # plot_shower_class.py
 
-from utils import *
+from tp_utils import *
 
 class PlotShower:
     def __init__(self, root):

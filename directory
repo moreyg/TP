@@ -1,0 +1,41 @@
+project_root/
+|-- my_data/
+|   |-- __init__.py
+|   |
+|   |-- my_requests/
+|   |-- __init__.py
+|   |-- requests_class.py
+|   |-- ticker_class.py
+|   |
+|   |-- my_database/
+|   	|-- __init__.py
+|   	|
+|   	|-- my_firebase/
+|   	|   |-- __init__.py
+|   	|   |-- firebase_class.py
+|   	|
+|   	|-- my_sqlite/
+|           |-- __init__.py
+|           |-- sqlite_class.py
+|
+|-- my_matplotlib/
+|   |-- __init__.py
+|   |-- matplotlib_class.py
+|
+|
+|-- my_gui/
+|   |-- __init__.py
+|   |-- PyQt_module.py
+|
+|-- scripts/
+|   |-- __init__.py
+|   |-- script1.py
+|   |-- script2.py
+|
+|-- venv/
+|   |-- (your virtual environment files)
+|
+|-- requirements.txt
+|-- main.py
+|-- README.md
+

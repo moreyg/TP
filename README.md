@@ -12,25 +12,112 @@ Existe una lista interminable de sitios con informacion disponible, seleccionamo
 
   [nASA](https://api.nasa.gov/#browseAPI) | [cOVID](https://covidtracking.com/data/api/version-2) | [cOIN_aPI](https://docs.coinapi.io) | [cOINgCEKO](https://www.coingecko.com/api/documentation)
 
-Trabajaremos con CoinApi y CoinGecko por ser muy claras en su documentacion
+Trabajaremos con CoinApi y CoinGecko,
 
-## **Etapa 1:**
+Estructura a utilizar:
 
-Esta etapa tendra el objerivo de introduccion a Girhub como repositorio de proyecto utilizando SO Linux,y MarkDown como lenguaje de documentacion de las etapas del trabajo a entregar. Este documento no intenta ser una guia de estudio, ni exlicativa, sobre temas mencionados, este documento refleja etapas seguidas por el autor en el desarrollo de su conocimiento y recomienda a otros dividir los temas de esta manera para seguir un plan para adquirir conocimiento, e interpretacion, de los temas tratados.
+project_root/
+|-- my_data/
+|   |-- __init__.py
+|   |
+|   |-- my_requests/
+|   |-- __init__.py
+|   |-- requests_class.py
+|   |
+|   |-- my_database/
+|   	|-- __init__.py
+|   	|
+|   	|-- my_firebase/
+|   	|   |-- __init__.py
+|   	|   |-- firebase_class.py
+|   	|
+|   	|-- my_sqlite/
+|           |-- __init__.py
+|           |-- sqlite_class.py
+|
+|-- my_matplotlib/
+|   |-- __init__.py
+|   |-- matplotlib_class.py
+|
+|
+|-- my_gui/
+|   |-- __init__.py
+|   |-- PyQt_module.py
+|
+|-- scripts/
+|   |-- __init__.py
+|   |-- script1.py
+|   |-- script2.py
+|
+|-- venv/
+|   |-- (your virtual environment files)
+|
+|-- requirements.txt
+|-- main.py
+|-- README.md
 
-Trabajaremos con el lenguaje Python 3.10 con la funcionalidad nativa de virtualizacion localmente, esto no sera reflejado en el repositorio. El sistema estara compuesto por scripts de Pyton para poder ser ejecutado via linea de comando, por ejemplo "run_linux_tp" o "run_Windows_tp", o bien simplemente "run_tp".
 
-Se trabajara con requirementes.txt para notificar dependencias al utilizar el repositorio.
+project_root/: This is the root directory of your project.
 
-Se implementara una interfaz grafica del modo "ventana" para facilitar al usuario su utilizacion.
+my_data/: A directory for handling data-related operations.
 
-En esta primera etapa tiene los objetivos:
-0- Incursionar el el lenguaje MarkDown de esta nota (Edit para ver como formatear..)
-1- Recolectar diferente informacion mediante API disponibles ejecutados en scripts simples y fijos para verificar el correcto entendimiento de la documentacion de la API
-2- Crear script simple de lanzamiento de interfaz de usuario graficando par k,v simple.
-3- Crear helper que contenga los recursos necesarios a utilizar en el sistema.
-4- crear lista de dependencias via requirements.txt
+my_requests/: Contains requests_class.py, likely for handling API requests.
 
-## **Etapa 2:**
+my_database/: For database-related functionality.
 
-Esta etapa se concentra en analizar al menos dos tipos de bases de datos, MongoDb y veremos como seguimos.....
+my_firebase/: Contains firebase_class.py, for interacting with Firebase.
+
+my_sqlite/: Contains sqlite_class.py, SQLite database operations.
+
+my_matplotlib/: Contains matplotlib_class.py, for data plotting using Matplotlib.
+
+my_gui/: Contains PyQt_module.py, which a GUI created using PyQt.
+
+scripts/: Contains individual scripts.
+
+venv/: The Python virtual environment directory.
+
+requirements.txt: Lists the dependencies for the project.
+
+main.py: The main entry point for your application.
+
+README.md:this file
+
+
+Workflow
+
+Fetch Data:
+Make an API request and receive data as a dictionary or list of dictionaries.
+
+Process Data:
+Perform any necessary data processing or transformation.
+
+Store/Retrieve Data:
+Save the processed data to your database and retrieve it as needed.
+
+Display in GUI:
+Show the data on the GUI, allowing the user to interact with it, such as displaying it in a table or generating plots based on it.
+
+Plot Data:
+Use Matplotlib to create visualizations from the data. You can then integrate these plots into your PyQt GUI.
+
+Handling Data from APIs
+When fetching data from an API:
+
+The response is often in JSON format, which can be directly converted to a Python dictionary using response.json() if you're using the requests library.
+If the API returns an array of items, it will be converted to a list of dictionaries in Python.
+Storing and Retrieving Data from Databases
+For databases like Firebase or SQLite:
+
+When storing data, you can directly store Python dictionaries. Both Firebase and SQLite can handle dictionary-like structures (although SQLite will require some serialization for complex structures).
+Retrieving data from the database will also give you dictionaries or lists of dictionaries, depending on the query and structure of your database.
+Using Data in Plots
+With Matplotlib:
+
+Data for plotting can be easily managed if they are in dictionary or list format. For example, you can use dictionary keys as labels and values as data points.
+Integrating with GUI
+In a PyQt GUI:
+
+You can display the data in various GUI elements. For instance, you could use a QTableWidget to display a list of dictionaries (each dictionary representing a row and its key-value pairs representing column data).
+
+
