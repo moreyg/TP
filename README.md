@@ -64,9 +64,17 @@ sortedcontainers   2.4.0
 tzdata             2023.4
 urllib3            2.2.0
 
-IMPORTANTE 1 de infraestructura de funcionamiento: EN esta version hay que crear un directorio "db" en la raiz del proyecto, junto a los directorios: muy_data y my_icons. 
+
+
+IMPORTANTE 1 de infraestructura de funcionamiento: SOLUCIONADO, verifica que hay un directorio ./db en la instalacion del sistema junto a los directorios: muy_data y my_icons. Si no lo ves, crea un directorio vacio "db" en la raiz del proyecto, junto a los directorios: muy_data y my_icons.
+
+
 IMPORTANTE 2 de configuracion del sistema: No te olvides de solicitar tu API-KEY como lo detallamos mas abajo.
+
+
 IMPORTANTE 3 de utilizacion del sistema: EN esta version cada pedido se limita a 12 primeros datos, cambiar las fechas y realizar un nuevo pedido para mas informacion. Se puede ver cual es la ultima cotizacion recibida y solicitar con esta fecha como inicio de solicitud de informacion. Idem para fecha de inicio, si queremos data con anterioridad.
+
+
 
 Instalacion del proyecto:
 
