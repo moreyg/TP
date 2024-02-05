@@ -64,6 +64,8 @@ sortedcontainers   2.4.0
 tzdata             2023.4
 urllib3            2.2.0
 
+IMPORTANTE: EN esta version hay que crear un directorio "db" en la raiz del proyecto, junto a los directorios: muy_data y my_icons. 
+
 Instalacion del proyecto:
 
 Este proyecto utiliza Python 3 en su totalidad, yo tengo instalada la version 3.10.12, vamos a suponer que el comando "py" es tu comando de ejecutar Python.
