@@ -82,7 +82,7 @@ git clone https://github.com/moreyg/TP.git
 
 Si no hay errores, esta copiado el proyecto en tu maquina y ahora hay que preparar Python, seguramente ya tienes un entorno virtual, recuerda activarlo para preparar el entorno virtual con los paquetes necesarios, asi no molestamos a la instalacion de Python de tu sistema operativo.
 
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 Si no tienes experiencia en esto, no te asustes, esta utilizando sitios y paquetes muy seguros del mismo Python.
 
