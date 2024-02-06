@@ -29,7 +29,7 @@ class Handler:
     def fetch_symbol(self, symbol_pos):
         return self.Smanager.fetch_symbol(symbol_pos)
 
-    def fetch_data(self, symbol_pos, start, end, interval, limit='12'):
+    def fetch_data(self, symbol_pos, start, end, interval, limit='24'):
         return self.Smanager.simbol_data(symbol_pos, start, end, interval, limit)
         '''
             self.Smanager.fetch_data(symbol_pos, start, end, interval, limit)
